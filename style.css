@@ -1,0 +1,47 @@
+/* Cos general */
+body {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+  line-height: 1.7;
+}
+
+/* Títols */
+h1, h2, h3 {
+  color: #a8d0e6;
+}
+
+/* Enllaços */
+a {
+  color: #fca311;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffd166;
+  text-decoration: underline;
+}
+
+/* Menú */
+nav {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+nav a {
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+/* Peu de pàgina */
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 50px;
+  padding: 20px;
+  border-top: 1px solid #444;
+  color: #888;
+}
